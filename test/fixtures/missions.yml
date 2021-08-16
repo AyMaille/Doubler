@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  star: one
+  user: one
+  dispo: 2021-08-16
+  price: 1.5
+  special_request: MyString
+
+two:
+  star: two
+  user: two
+  dispo: 2021-08-16
+  price: 1.5
+  special_request: MyString
